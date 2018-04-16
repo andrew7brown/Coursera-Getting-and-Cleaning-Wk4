@@ -12,3 +12,6 @@ Does the following:
 
 ## Code Book
 See the CodeBook.md to understand the tidydata.txt file.
+
+## Dataset
+Add https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and unzip file within this project
